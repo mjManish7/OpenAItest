@@ -1,0 +1,2 @@
+# OpenAItest
+Learning project
